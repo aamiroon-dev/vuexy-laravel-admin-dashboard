@@ -9,10 +9,20 @@
         "prod": "npm run production",
         "production": "mix --production"
     },
+    "dependencies": {
+        "bootstrap": "~5.1.0"
+    },
     "devDependencies": {
         "axios": "^0.21",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "popper.js": "^1.16.1",
+        "cross-env": "^5.2.1",
+        "jquery": "^3.6",
+        "resolve-url-loader": "^4.0.0",
+        "rtlcss": "^3.0",
+        "sass": "1.30.0",
+        "sass-loader": "^11.0.1"
     }
 }

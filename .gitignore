@@ -1,6 +1,13 @@
 /node_modules
 /public/hot
+/public/data
+/public/fonts
+/public/images
 /public/storage
+/public/js
+/public/css
+/public/css-rtl
+/public/vendors
 /storage/*.key
 /vendor
 .env
@@ -11,5 +18,9 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/vuexy-shell-scripts
+supervisord.log
+supervisord.pid
 /.idea
 /.vscode
+.DS_Store
